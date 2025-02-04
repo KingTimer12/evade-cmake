@@ -1,2 +1,3 @@
-# evade-cmake
-Evade by Ark but supported for CMake projects
+# Evade using CMake
+
+[EvadeAPI](https://github.com/Ark223/FF15) is a C++ library created by [Uncle Ark](https://github.com/Ark223)

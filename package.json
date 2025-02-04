@@ -1,0 +1,8 @@
+{
+  "name": "evade-api",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  }
+}

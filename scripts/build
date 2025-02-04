@@ -1,0 +1,4 @@
+if [ ! -d "build" ]; then
+    cmake -S . -B build -G Ninja
+fi
+ninja -C build/
